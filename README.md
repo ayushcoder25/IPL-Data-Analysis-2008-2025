@@ -36,6 +36,13 @@ The goal is to extract insights related to team performance, player performance,
 - Python
 - Pandas
 - Matplotlib
+---
+## ▶️ How to Run
+
+1. Clone the repository  
+2. Open notebooks in Jupyter  
+3. Run data_cleaning.ipynb  
+4. Run analysis.ipynb
 
 ---
 
